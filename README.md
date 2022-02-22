@@ -2,7 +2,7 @@
 
 Termux İçin Gerekli Olan Tüm Tool
 
-Ve Araçları Sizin İçin İndiren Dosya
+Ve Araçları Sizin İçin İndirir...
 
 ==============================
 
