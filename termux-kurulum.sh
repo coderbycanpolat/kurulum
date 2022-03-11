@@ -41,11 +41,14 @@ pkg install perl -y
 pkg install nmap -y
 pkg install openssl -y
 pkg install nodejs -y
+pkg install wordlist -y
 apt install curl -y
 apt upgrade -y
 apt install dnsutils -y
 pip install wordlist -y
 apt install bash -y
+apt install nodejs -y
+pip install requests -y
 apt install clang -y
 apt install jq -y
 apt install macchanger -y
